@@ -1,0 +1,40 @@
+
+
+h1{font-weight:bold;
+  background-color: #ccc;
+   font-size:5em;
+margin:  20px;
+padding: 40px;}
+
+h2 {
+    font-size: 2em;
+    margin: 40px;
+}
+
+img {margin:  40px; 
+}
+
+li {display: block;
+  font-family: arial;
+  font-size: 18px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    padding: 10px;
+}
+p {
+    padding-left: 70px;
+}
+p{
+  padding-right: 70px;
+}
+
+
